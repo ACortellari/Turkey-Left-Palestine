@@ -1,9 +1,10 @@
-Author’s Name,Author’s Surname,Title,Publishing House,Series,Year,City,Genre
-Cüneyt,Kafkas,Filistin Günlüğü,A Yayınları,Anı-Roman Dizisi,1990,Istanbul,Memoır
-Yaşar,Küpeli,Filistin'de İki Resim. Özgürlüğüm Esaretim ve Aşkım,Nitelik Kitap,,2015,Ankara,Memoır
-Hasan,Mantıcı,Filistin Güncesi. Türkiye Devrimcilerinin Enternasyonalist Mücadelesi,Ozan Yayıncılık,Anı Dizisi,2014,Istanbul,Memoır
-Adil,Okay,12 Eylül Ve Filistin Günlüğü ,Ütopya Yayınevi,,2008,Ankara,Memoır
-A. Kadir ,Yaşargün ,Filistin Fedaileri. Gaziantep'ten Filistin'e Bir Dostluk ve Mücadele Öyküsü,Ozan Yayıncılık,,2005,Istanbul,Memoır
-Oktay,Duman,Devrimcilerin Filistin Günlüğü. 1968-1975,Ayrıntı Yayınları,Yakın Tarih Dizisi,2015,Istanbul,
-Oktay,Duman,Devrimcilerin Filistin Günlüğü 2. 1976-1985,Ayrıntı Yayınları,Yakın Tarih Dizisi,2017,Istanbul,
-Turhan,Feyizoğlu,Denizler ve Filistin,Alfa Yayıncılık,,2011,Istanbul,
+Author’s Name,Author’s Surname,2nd Author’s Name,2nd Author’s Surname,Title,Publishing House,Series,Year,City,Genre,Usefulness
+Cüneyt,Kafkas,,,Filistin Günlüğü,A Yayınları,Anı-Roman Dizisi,1990,Istanbul,Memoır,On Topıc
+Yaşar,Küpeli,,,Filistin'de İki Resim. Özgürlüğüm Esaretim ve Aşkım,Nitelik Kitap,,2015,Ankara,Memoır,On Topıc
+Hasan,Mantıcı,,,Filistin Güncesi. Türkiye Devrimcilerinin Enternasyonalist Mücadelesi,Ozan Yayıncılık,Anı Dizisi,2014,Istanbul,Memoır,On Topıc
+Adil,Okay,,,12 Eylül Ve Filistin Günlüğü ,Ütopya Yayınevi,,2008,Ankara,Memoır,On Topıc
+A. Kadir ,Yaşargün ,,,Filistin Fedaileri. Gaziantep'ten Filistin'e Bir Dostluk ve Mücadele Öyküsü,Ozan Yayıncılık,,2005,Istanbul,Memoır,On Topıc
+Oktay,Duman,,,Devrimcilerin Filistin Günlüğü. 1968-1975,Ayrıntı Yayınları,Yakın Tarih Dizisi,2015,Istanbul,,On Topıc
+Oktay,Duman,,,Devrimcilerin Filistin Günlüğü 2. 1976-1985,Ayrıntı Yayınları,Yakın Tarih Dizisi,2017,Istanbul,,On Topıc
+Turhan,Feyizoğlu,,,Denizler ve Filistin,Alfa Yayıncılık,,2011,Istanbul,,On Topıc
+Baydar,Oya,Ulagay,Melek,Bir Dönem İki Kadın: Birbirimizin Aynasında,Can Yayınları,Anlatı Dizisi ,2011,Istanbul,,Parts
