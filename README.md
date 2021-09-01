@@ -1,5 +1,5 @@
 # Turkey-Left-Palestine
-Primary sources on the history of Turkey's Left and Palestine
+Primary and secondary sources on the history of Turkey's Left and Palestine
 
 This repository contains a number of primary sources, primarely books and press articles, that might be useful to those who are interested in studying the history of the radical left in Turkey and its linkages and intellectual connections with the Palestinian organizations during the Cold War. 
 
